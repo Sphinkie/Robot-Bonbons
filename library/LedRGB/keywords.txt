@@ -1,0 +1,25 @@
+
+###################################
+# Syntax Coloring Map For LedRGB
+###################################
+
+###################################
+# Datatypes (KEYWORD1)
+###################################
+
+LedRGB	KEYWORD1
+
+###################################
+# Methods and Functions (KEYWORD2)
+###################################
+
+switchOFF	KEYWORD2
+setColorRGB	KEYWORD2
+setColorHSL	KEYWORD2
+setFastColorHSL	KEYWORD2
+fastSin	KEYWORD2
+fastCos	KEYWORD2
+
+###################################
+# Constants (LITERAL1)
+###################################

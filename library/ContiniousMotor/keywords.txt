@@ -1,0 +1,13 @@
+ContiniousMotor		KEYWORD1
+
+startEngine		KEYWORD2
+stopEngine		KEYWORD2
+setSpeed		KEYWORD2
+pauseEngine		KEYWORD2
+resumeEngine	KEYWORD2
+reserseSpeed	KEYWORD2
+accelerate		KEYWORD2
+slowDown        KEYWORD2
+getSpeed		KEYWORD2
+changeSpeed		KEYWORD2
+
