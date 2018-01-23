@@ -1,7 +1,7 @@
 # Robot à Bonbons
 ---
 ## Description
-Small robot fused for the children birthdays, to distribute candies.
+A small robot used for the children birthdays, to distribute candies.
 ## Installation
 The sketch has to be uploaded into an Arduino board.
 Fill the tank with roun shaped candies.
