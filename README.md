@@ -3,6 +3,6 @@
 ## Description  
 ## Installation  
 ## Usage  
-## Credits  
+## Credits
 Many thanks to the authors of the libraries use for this project:  
- **Arduino** at www.arduino.cc
+* **Arduino** at www.arduino.cc
