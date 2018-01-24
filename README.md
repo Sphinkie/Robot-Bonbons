@@ -1,8 +1,8 @@
 # Robot à Bonbons
----
+   
 ## Description
-A funny robot who distributes candies during the children birthdays.
-![robot-bonbons 4](https://user-images.githubusercontent.com/25912285/35319683-333719ce-00e1-11e8-9006-0dc11f8cd7a7.jpg)
+<img src="https://user-images.githubusercontent.com/25912285/35319683-333719ce-00e1-11e8-9006-0dc11f8cd7a7.jpg" width="200" />A funny robot who distributes candies during the children birthdays.<img src="https://user-images.githubusercontent.com/25912285/35319669-27f1d0c2-00e1-11e8-9af5-c3ce925fcb07.jpg" width="200" />
+
 ## Installation
 The sketch has to be uploaded into an Arduino board.  
 9v supply is necessary for the RGB Led to light. USB 5v supply is not enough.  
