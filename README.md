@@ -16,5 +16,5 @@ You can adjust the rotation speed with the rear button.
 Many thanks to the authors of the external libraries used for this project:  
 * **Arduino** at www.arduino.cc
 * **MelodyUtils** (from Dave's Arduino Utilities) by Dave Tucker ('Ornaments and articulations for beautiful Arduino melodies')
-* **NewPing Library** by Tim Eckel to deal with ultrasonic sensors. https://bitbucket.org/teckel12/arduino-new-ping/wiki/Home
-* **NewTone Library** by Tim Eckel for playing sound on an Arduino. https://bitbucket.org/teckel12/arduino-new-ping/wiki/Home
+* **NewPing Library** by Tim Eckel to deal with ultrasonic sensors. More information at https://bitbucket.org/teckel12/arduino-new-ping/wiki/Home
+* **NewTone Library** by Tim Eckel for playing sound on an Arduino. More information at https://bitbucket.org/teckel12/arduino-new-tone/wiki/Home
