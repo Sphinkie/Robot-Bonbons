@@ -7,7 +7,7 @@ With the **rear button**, you can choose different colors for the side light.
 ![Front view](images/Robot-Bonbons-LR-front.png)
 ![Rear view](images/Robot-Bonbons-LR-rear.png)
 
-[All pictures](webpages/pictures).
+[All pictures](webpages/pictures)...
 
 ## Tuning
 
@@ -16,9 +16,9 @@ You can adjust the rotation speed with the rear button.
 
 # Technical data
 
-[List of Materials](webpages/bill_of_material).
+[List of Materials](webpages/bill_of_material)
 
-[Pinout](webpages/pinout).
+[Pinout](webpages/pinout)
 
 ## Installation
 
