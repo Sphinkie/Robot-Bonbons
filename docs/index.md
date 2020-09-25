@@ -35,3 +35,6 @@ Many thanks to the authors of the external libraries used for this project:
 * **NewTone Library** by Tim Eckel for playing sound on an Arduino. More information on his [Bitbucket project page](https://bitbucket.org/teckel12/arduino-new-tone/wiki/Home)
 
 
+## About me
+
+Find my other softwares at [GitHub](https://sphinkie.github.io).
